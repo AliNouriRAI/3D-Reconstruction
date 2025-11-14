@@ -3,6 +3,14 @@
 
 
 
+The following shows the difference map of the novel viewpoint between the omnire reconstruction and the CARLA ground truth for a scenario with a vehicle:
+https://github.com/user-attachments/assets/d9170773-248b-4655-9be7-c8654948edc8
+
+
+The following shows the difference map of the novel viewpoint between the omnire reconstruction and the CARLA ground truth for a scenario with a pedestrian:
+https://github.com/user-attachments/assets/dd9596b2-7e6b-4d7c-a912-8c131e09b943
+
+
 ### ✨ Functionality
 
 <details>
